@@ -8,4 +8,4 @@ def actors_list
     "#{t.first_name} #{t.last_name}"
   end
 end
-end 
+end
